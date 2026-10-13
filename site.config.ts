@@ -26,6 +26,7 @@ export const site: SiteConfig = {
       { src: "/images/post-7.jpg", alt: "Glossy Gestures artist portrait" },
       { src: "/images/post-8.jpg", alt: "Soft glam makeup look" },
     ],
+    primaryCta: { label: "DM to book", href: "https://ig.me/m/glossy_gestures_26" },
     secondaryCta: { label: "See the work", href: "#gallery" },
   },
 
